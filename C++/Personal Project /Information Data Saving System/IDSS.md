@@ -27,8 +27,7 @@ ID | Full Name | Email | Phone | Category
 [0] Exit               -> Close the program
 
 
-All records are appended to **idss_records.dat**
 
-ofstream with ios::app so no existing data is overwritten.
-
-Each record is delimited by a **"-----"** sentinel line.
+- All records are appended to **idss_records.dat**
+- ofstream with ios::app so no existing data is overwritten.
+- Each record is delimited by a **"-----"** sentinel line.
