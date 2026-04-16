@@ -1,3 +1,6 @@
+// Created by CLFerrer
+// Github: https://github.com/CLFerrer
+
 #include <iostream>
 #include <fstream>
 #include <string>
