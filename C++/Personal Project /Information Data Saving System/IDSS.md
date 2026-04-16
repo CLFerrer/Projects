@@ -1,10 +1,14 @@
 # --- Information Data Saving System (IDSS) ---
-// File     : idss_main.cpp
-// Build    : g++ -o idss idss_main.cpp
-// Run      : ./idss
+File     : idss_main.cpp
+Build    : g++ -o idss idss_main.cpp
+Run      : ./idss
+
+
 
 # Stores Personal / Contact records
 ID | Full Name | Email | Phone | Category
+
+
 
 # Features:
 [1] Add New Record     -> Input and save a new contact record
