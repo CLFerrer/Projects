@@ -14,17 +14,17 @@ ID | Full Name | Email | Phone | Category
 
 # Features:
 
-[1] Add New Record     -> Input and save a new contact record
+[1]   Add New Record      -> Input and save a new contact record
 
-[2] Display All        -> List every saved record with a total count
+[2]   Display All         -> List every saved record with a total count
 
-[3] Search by ID       -> Find a single record by exact ID match
+[3]   Search by ID        -> Find a single record by exact ID match
 
-[4] Search by Name     -> Find all records matching a full name
+[4]   Search by Name      -> Find all records matching a full name
 
-[5] Filter by Category -> List all records under a given category
+[5]   Filter by Category  -> List all records under a given category
 
-[0] Exit               -> Close the program
+[0] Exit                  -> Close the program
 
 
 
